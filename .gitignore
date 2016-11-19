@@ -3,6 +3,7 @@
 
 .idea/
 node_modules/
+idea/vcs.xml
 
 ## File-based project format:
 *.iws
